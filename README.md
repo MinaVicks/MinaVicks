@@ -7,3 +7,9 @@
 🚀 Recently completed a full stack bootcamp to strengthen my technical foundation and bring design concepts to life through clean, efficient code.
 
 🌟 I’m passionate about crafting intuitive front-end solutions that are visually compelling and functionally seamless across devices.
+
+
+🧩 Skills
+📌 UI/UX Designer | Web Designer | Interaction Design | Figma | Adobe XD | Prototyping | Museums & Cultural Projects | Accessibility
+
+
